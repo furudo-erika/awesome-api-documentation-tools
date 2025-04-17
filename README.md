@@ -1,6 +1,6 @@
 # Awesome API Documentation Tools
 
-![Awesome](https://awesome.re/badge.svg)]
+![Awesome](https://awesome.re/badge.svg)
 
 > A curated list of awesome API documentation tools and resources to help you build, maintain, and share better API documentation.
 
@@ -33,7 +33,7 @@ API documentation tools help developers create, maintain, and publish documentat
 *Full-featured platforms for API design, testing, and documentation.*
 
 1. [Apidog](https://apidog.com/) - An integrated platform for API design, debugging, testing, documentation, and mocking. Offers collaborative features specifically tailored for API development teams.
-[![](https://assets.apidog.com/static/www/assets/images/v2/main-interface-dark.webp)](https://apidog.com)
+[![](https://assets.apidog.com/static/www/assets/images/index/feature-api-doc-1.webp)](https://apidog.com)
 2. [Postman](https://www.postman.com/) - API platform for building and using APIs with features for request building, automated testing, and documentation generation.
 2. [SwaggerHub](https://swagger.io/tools/swaggerhub/) - Collaborative platform for API design and documentation built around the OpenAPI Specification.
 4. [Stoplight](https://stoplight.io/) - A design-first API platform with visual modeling, documentation, and testing tools.
