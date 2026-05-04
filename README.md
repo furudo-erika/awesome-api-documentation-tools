@@ -198,66 +198,67 @@ API documentation tools help developers create, maintain, and publish documentat
 103. [RapidAPI Analytics](https://rapidapi.com/products/api-analytics/) - Analytics platform for API usage with documentation tracking.
 104. [APImetrics](https://www.apimetrics.io/) - API performance monitoring with documentation usage analytics.
 105. [DocOps](https://docops.io/) - Documentation analytics and optimization platform.
+106. [SchemaWatch](https://schemawatch.tuvia.nl) - Monitor API schemas for breaking changes, validate OpenAPI specs, and get quality scores. Free tier: 3 APIs monitored. ([Source Code](https://github.com/ovoWeb/tuvia))
 
 ## Mock Servers
 
 *Mock servers for API documentation testing.*
 
-106. [Prism](https://stoplight.io/open-source/prism) - HTTP mock server for OpenAPI specs.
-107. [JSON Server](https://github.com/typicode/json-server) - Fake REST API server with documentation features.
-108. [Mockoon](https://mockoon.com/) - Mock API server with documentation features.
-109. [WireMock](https://wiremock.org/) - Flexible API mocking with documentation capabilities.
-110. [MockServer](https://www.mock-server.com/) - Easy mocking of REST and SOAP services for documentation.
+107. [Prism](https://stoplight.io/open-source/prism) - HTTP mock server for OpenAPI specs.
+108. [JSON Server](https://github.com/typicode/json-server) - Fake REST API server with documentation features.
+109. [Mockoon](https://mockoon.com/) - Mock API server with documentation features.
+110. [WireMock](https://wiremock.org/) - Flexible API mocking with documentation capabilities.
+111. [MockServer](https://www.mock-server.com/) - Easy mocking of REST and SOAP services for documentation.
 
 ## API Gateways with Doc Features
 
 *API gateways that include documentation capabilities.*
 
-111. [Kong](https://konghq.com/) - API gateway with documentation portal features.
-112. [Tyk](https://tyk.io/) - API gateway with documentation capabilities.
-113. [APIGateway](https://aws.amazon.com/api-gateway/) - Amazon's API gateway with documentation features.
-114. [Apigee](https://cloud.google.com/apigee) - Google Cloud's API management platform with documentation.
-115. [WSO2 API Manager](https://wso2.com/api-manager/) - Open source API management platform with documentation portal.
+112. [Kong](https://konghq.com/) - API gateway with documentation portal features.
+113. [Tyk](https://tyk.io/) - API gateway with documentation capabilities.
+114. [APIGateway](https://aws.amazon.com/api-gateway/) - Amazon's API gateway with documentation features.
+115. [Apigee](https://cloud.google.com/apigee) - Google Cloud's API management platform with documentation.
+116. [WSO2 API Manager](https://wso2.com/api-manager/) - Open source API management platform with documentation portal.
 
 ## Documentation Templates
 
 *Templates and examples for API documentation.*
 
-116. [API Documentation Template](https://github.com/jamescooke/restapidocs) - Template for REST API documentation.
-117. [API Blueprint Examples](https://github.com/apiaryio/api-blueprint/tree/master/examples) - Examples of API Blueprint documentation.
-118. [OpenAPI Examples](https://github.com/OAI/OpenAPI-Specification/tree/master/examples) - Example OpenAPI specifications.
-119. [HAL Examples](https://github.com/mikekelly/hal-browser) - Examples of HAL documentation.
-120. [API Guidelines](https://github.com/microsoft/api-guidelines) - Microsoft's guidelines for REST API design and documentation.
+117. [API Documentation Template](https://github.com/jamescooke/restapidocs) - Template for REST API documentation.
+118. [API Blueprint Examples](https://github.com/apiaryio/api-blueprint/tree/master/examples) - Examples of API Blueprint documentation.
+119. [OpenAPI Examples](https://github.com/OAI/OpenAPI-Specification/tree/master/examples) - Example OpenAPI specifications.
+120. [HAL Examples](https://github.com/mikekelly/hal-browser) - Examples of HAL documentation.
+121. [API Guidelines](https://github.com/microsoft/api-guidelines) - Microsoft's guidelines for REST API design and documentation.
 
 ## AI-Powered Documentation Tools
 
 *Documentation tools incorporating AI capabilities.*
 
-121. [Mintlify](https://mintlify.com/) - AI-powered documentation platform for APIs.
-122. [DeepDocs](https://www.deepdocs.dev/) - AI documentation generator for APIs.
-123. [QuickType](https://quicktype.io/) - AI-powered JSON schema generation and documentation.
-124. [Docstring AI](https://docstring.ai/) - AI-assisted documentation generator for code.
-125. [CodeDoc AI](https://www.codedoc.ai/) - AI-powered documentation generator for programming languages.
+122. [Mintlify](https://mintlify.com/) - AI-powered documentation platform for APIs.
+123. [DeepDocs](https://www.deepdocs.dev/) - AI documentation generator for APIs.
+124. [QuickType](https://quicktype.io/) - AI-powered JSON schema generation and documentation.
+125. [Docstring AI](https://docstring.ai/) - AI-assisted documentation generator for code.
+126. [CodeDoc AI](https://www.codedoc.ai/) - AI-powered documentation generator for programming languages.
 
 ## Resources
 
 *Articles, guides, and learning resources about API documentation.*
 
-126. [API Documentation Guide](https://idratherbewriting.com/learnapidoc/) - A guide to API documentation by Tom Johnson.
-127. [OpenAPI Map](https://openapi-map.apihandyman.io/) - Visual representation of the OpenAPI Specification.
-128. [DevDocs](https://devdocs.io/) - Unified API documentation browser.
-129. [API Stylebook](http://apistylebook.com/) - Collection of resources for API designers.
-130. [Nordic APIs Blog](https://nordicapis.com/blog/) - Articles on API development and documentation best practices.
-131. [The API Handyman](https://apihandyman.io/) - Blog with API design and documentation best practices.
-132. [Swagger Blog](https://swagger.io/blog/) - Articles about API development and documentation.
-133. [REST API Tutorial](https://www.restapitutorial.com/) - Tutorial on REST API design and documentation.
-134. [API Evangelist](https://apievangelist.com/) - Blog about API strategy and documentation.
-135. [API-University](https://api-university.com/) - Educational resources for API documentation and design.
-136. [JSON Schema Tools](https://json-schema.org/implementations.html) - List of tools for working with JSON Schema.
-137. [REST API Design Rulebook](https://www.oreilly.com/library/view/rest-api-design/9781449317904/) - Book on REST API design principles.
-138. [API Documentation Best Practices](https://swagger.io/resources/articles/best-practices-in-api-documentation/) - Article on best practices for API documentation.
-139. [GraphQL Documentation Guide](https://graphql.org/learn/schema/) - Guide to documenting GraphQL APIs.
-140. [RAML Documentation Guide](https://raml.org/developers/document-your-api) - Guide to documenting APIs with RAML.
+127. [API Documentation Guide](https://idratherbewriting.com/learnapidoc/) - A guide to API documentation by Tom Johnson.
+128. [OpenAPI Map](https://openapi-map.apihandyman.io/) - Visual representation of the OpenAPI Specification.
+129. [DevDocs](https://devdocs.io/) - Unified API documentation browser.
+130. [API Stylebook](http://apistylebook.com/) - Collection of resources for API designers.
+131. [Nordic APIs Blog](https://nordicapis.com/blog/) - Articles on API development and documentation best practices.
+132. [The API Handyman](https://apihandyman.io/) - Blog with API design and documentation best practices.
+133. [Swagger Blog](https://swagger.io/blog/) - Articles about API development and documentation.
+134. [REST API Tutorial](https://www.restapitutorial.com/) - Tutorial on REST API design and documentation.
+135. [API Evangelist](https://apievangelist.com/) - Blog about API strategy and documentation.
+136. [API-University](https://api-university.com/) - Educational resources for API documentation and design.
+137. [JSON Schema Tools](https://json-schema.org/implementations.html) - List of tools for working with JSON Schema.
+138. [REST API Design Rulebook](https://www.oreilly.com/library/view/rest-api-design/9781449317904/) - Book on REST API design principles.
+139. [API Documentation Best Practices](https://swagger.io/resources/articles/best-practices-in-api-documentation/) - Article on best practices for API documentation.
+140. [GraphQL Documentation Guide](https://graphql.org/learn/schema/) - Guide to documenting GraphQL APIs.
+141. [RAML Documentation Guide](https://raml.org/developers/document-your-api) - Guide to documenting APIs with RAML.
 
 ## Contributing
 
