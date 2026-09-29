@@ -90,6 +90,7 @@ API documentation tools help developers create, maintain, and publish documentat
 33. [Doctave](https://github.com/Doctave/doctave) - Documentation site generator with a focus on API documentation.
 34. [Raml2Html](https://github.com/raml2html/raml2html) - RAML to HTML documentation generator.
 35. [Doxygen](https://www.doxygen.nl/) - Documentation generator for multiple programming languages.
+36. [Sourcey](https://sourcey.com/) - Open-source static documentation generator for OpenAPI, MCP, Doxygen, godoc, rustdoc, and Markdown, producing self-hostable HTML and llms.txt.
 
 ## Specification Tools
 
