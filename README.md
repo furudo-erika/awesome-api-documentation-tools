@@ -90,6 +90,7 @@ API documentation tools help developers create, maintain, and publish documentat
 33. [Doctave](https://github.com/Doctave/doctave) - Documentation site generator with a focus on API documentation.
 34. [Raml2Html](https://github.com/raml2html/raml2html) - RAML to HTML documentation generator.
 35. [Doxygen](https://www.doxygen.nl/) - Documentation generator for multiple programming languages.
+36. [DocsAlot](https://docsalot.dev/) - API documentation platform with OpenAPI support, interactive API playgrounds, and SDK examples.
 
 ## Specification Tools
 
@@ -146,6 +147,7 @@ API documentation tools help developers create, maintain, and publish documentat
 69. [Vercel](https://vercel.com/) - Platform for hosting documentation with seamless Git integration.
 70. [Heroku](https://www.heroku.com/) - Cloud platform that can be used to host documentation apps.
 71. [Cloudflare Pages](https://pages.cloudflare.com/) - JAMstack platform for hosting documentation sites.
+72. [DocsAlot](https://docsalot.dev/) - Hosted documentation platform with custom domains, GitHub integration, and hosted MCP servers.
 
 ## API Testing with Doc Features
 
@@ -250,6 +252,7 @@ API documentation tools help developers create, maintain, and publish documentat
 123. [QuickType](https://quicktype.io/) - AI-powered JSON schema generation and documentation.
 124. [Docstring AI](https://docstring.ai/) - AI-assisted documentation generator for code.
 125. [CodeDoc AI](https://www.codedoc.ai/) - AI-powered documentation generator for programming languages.
+126. [DocsAlot](https://docsalot.dev/) - Documentation platform with AI assistants, semantic search, MCP integration, and llms.txt support.
 
 ## Resources
 
